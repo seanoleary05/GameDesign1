@@ -9,6 +9,6 @@ a.body{
 }
 
 body {
-    background-image: url(../images/photo-1444927714506-8492d94b4e3d.jpg);
+    background-image: url("../images/photo-1444927714506-8492d94b4e3d.jpg");
     
 }
