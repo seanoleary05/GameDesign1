@@ -1,0 +1,13 @@
+a{
+    
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: green;
+    background-color: black;
+    text-decoration: none;
+}
+
+body {
+    background: url(../images/photo-1444927714506-8492d94b4e3d.jpg)
+}
