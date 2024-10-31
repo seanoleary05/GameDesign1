@@ -6,10 +6,11 @@ header div {
     color: green;
     background-color: black;
     text-decoration: none;
+    justify-content: center;
 }
 
 body {
     background-image: url("../images/photo-1444927714506-8492d94b4e3d.jpg");
-    justify-content: center;
+    
     
 }
