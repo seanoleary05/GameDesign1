@@ -1,4 +1,4 @@
-header div {
+article div {
     
     padding: 1px 6px;
     border: 1px outset buttonborder;
@@ -20,7 +20,7 @@ body {
     
 }
 
-header{
+article{
     display: flex;
     gap: 30px;
 }
