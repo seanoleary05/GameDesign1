@@ -46,3 +46,7 @@ h1{
 sub{
     font-size: 14px;
 }
+
+a{
+    color: white;
+}
